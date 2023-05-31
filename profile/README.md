@@ -1,6 +1,6 @@
-## PLEASE FILL THIS FILE WITH SOME AMAZING TEXT ABOUT OUR PRODUCT
+# PLEASE FILL THIS FILE WITH SOME AMAZING TEXT ABOUT OUR PRODUCT
 
-# Hi there 👋
+### Hi there 👋
 
 **Here are some ideas to get you started:**
 

@@ -37,7 +37,7 @@ Contributions to CryptoGPT.io are welcome. Please follow these guidelines:
 - [Documentation](https://cryptogpt.io/docs)
 - Twitter: [@OfficialCRGPT](https://twitter.com/OfficialCRGPT)
 - Telegram: [Official Crypto GPT](https://t.me/OfficialCRGPT)
-- Discord: [CryptpGPT](https://discord.gg/UFfQ66eDnb)
+- Discord: [CryptoGPT](https://discord.gg/UFfQ66eDnb)
 
 ### Fun Facts ###
 

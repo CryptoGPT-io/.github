@@ -32,19 +32,10 @@ Contributions to CryptoGPT.io are welcome. Please follow these guidelines:
 5. Be open to feedback and willing to make necessary adjustments.
 
 ### Useful Resources ###
+www.cryptogpt.io
+https://linktr.ee/crgpt
+Presale:
+https://www.pinksale.finance/launchpad/0x354015D55249D9970eB65c039FE407A98Cb387e7?chain=ETH
 
-- [Official Website](https://cryptogpt.io)
-- [Documentation](https://cryptogpt.io/docs)
-- Twitter: [@OfficialCRGPT](https://twitter.com/OfficialCRGPT)
-- Telegram: [Official Crypto GPT](https://t.me/OfficialCRGPT)
-- Discord: [CryptoGPT](https://discord.gg/UFfQ66eDnb)
 
-### Fun Facts ###
-
-We start the day with a healthy dose of innovation and a passion for revolutionizing the trading industry. Join us to experience the power of AI in trading with CryptoGPT.io!
-
-### Markdown Magic ###
-
-This README.md file was created using Markdown, a lightweight markup language that allows for easy formatting and rich content creation.
-
-Let's revolutionize the trading industry together with CryptoGPT.io! 🚀🌈
+Whitepaper: https://cryptogpt-io.gitbook.io/whitepaper/
